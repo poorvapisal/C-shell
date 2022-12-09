@@ -1,0 +1,2 @@
+run: main.c prompt.c echo.c pwd.c cd.c history.c ls.c foreground.c background.c pinfo.c discover.c colours.c signal.c jobs.c sig.c processes.c redirection_piping.c
+	gcc main.c prompt.c echo.c pwd.c cd.c history.c ls.c foreground.c background.c pinfo.c discover.c colours.c signal.c jobs.c sig.c processes.c redirection_piping.c
