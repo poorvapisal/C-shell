@@ -1,8 +1,3 @@
-## OS Assignment 2
-#### Poorva Pisal
-**2020113001**
-<br>
-
 ## Compiling and Running the Shell
 
 run `make` to generate the executable
